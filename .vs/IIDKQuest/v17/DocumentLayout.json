@@ -1,0 +1,1144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|c:\\users\\kelly\\downloads\\orbitay.lol menu code (dont leak) (3)\\orbitay.lol menu code (dont leak)\\orbitay.lol menu\\madewithiidktempquest\\iidkquest\\menu\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\plugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\plugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\classes\\extgradient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\classes\\extgradient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\classes\\rigmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\classes\\rigmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\esp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\esp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\enhancegunlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\enhancegunlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\fly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\fly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\cuberain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\cuberain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\longarms2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\longarms2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\longarms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\longarms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\custombananaods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\custombananaods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\classes\\timedbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\classes\\timedbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\bannaos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\bannaos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\gunlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\gunlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\jrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\jrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\mosaspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\mosaspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\motd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\motd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\overpoweredmodscat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\overpoweredmodscat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\quitgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\quitgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\riggun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\riggun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\tch2crsh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\tch2crsh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\springguntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\springguntest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\visualmodscat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\visualmodscat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\nocilp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\nocilp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\ok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\ok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\okinfecrion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\okinfecrion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\noclipfly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\noclipfly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\invmonk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\invmonk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\custom computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\custom computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\spamenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\spamenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\rotatehalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\rotatehalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\platforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\platforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\notagfreeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\notagfreeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\menutrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\menutrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\menunametag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\menunametag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\become ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\become ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\bananaspam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\bananaspam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\poop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\poop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\pee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\pee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\kickal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\kickal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\caseoh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\caseoh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\ghostmonkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\ghostmonkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\micmods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\micmods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\nuke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\nuke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\roommodscat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\roommodscat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\relongarms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\relongarms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\boxesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\boxesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\tracers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\tracers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\disconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\disconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\redandblackenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\redandblackenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\crashgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\crashgun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\custommenuname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\custommenuname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\stumptext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\stumptext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\skymods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\skymods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\casual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\casual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\antiafk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\antiafk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\mods\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\othernametag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\othernametag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\mods\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\menu\\customizestump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\menu\\customizestump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\mods\\buttongun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\mods\\buttongun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\classes\\buttoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\classes\\buttoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\classes\\buttoncollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\classes\\buttoncollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\classes\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\classes\\colorchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\notifications\\playerjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\notifications\\playerjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\notifications\\playerleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\notifications\\playerleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\iidkquest\\notifications\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6943139-B22E-462D-85AD-6EBB79E8AA7E}|IIDKQuest\\IIDKQuest.csproj|solutionrelative:iidkquest\\notifications\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Buttons.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Buttons.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Buttons.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Buttons.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Buttons.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:03:10.629Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Main.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Main.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Main.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Main.cs",
+              "ViewState": "AgIAAAACAAAAAAAAAAAUwBwCAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:58:59.414Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LongArms.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\LongArms.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\LongArms.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\LongArms.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\LongArms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:37:14.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fly.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Fly.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Fly.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Fly.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Fly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T16:21:22.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bannaos.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Bannaos.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Bannaos.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Bannaos.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Bannaos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T00:09:08.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PluginInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\PluginInfo.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\PluginInfo.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\PluginInfo.cs",
+              "RelativeToolTip": "IIDKQuest\\PluginInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:59:09.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LongArms2.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\LongArms2.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\LongArms2.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\LongArms2.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\LongArms2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:39:58.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnhanceGunLib.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\EnhanceGunLib.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\EnhanceGunLib.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\EnhanceGunLib.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\EnhanceGunLib.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T13:24:10.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "esp.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\esp.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\esp.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\esp.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\esp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:39:47.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GunLock.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\GunLock.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\GunLock.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\GunLock.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\GunLock.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T12:58:13.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cuberain.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\cuberain.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\cuberain.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\cuberain.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\cuberain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:37:50.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RigManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Classes\\RigManager.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Classes\\RigManager.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Classes\\RigManager.cs",
+              "RelativeToolTip": "IIDKQuest\\Classes\\RigManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:06:15.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Settings.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Settings.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Settings.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:05:20.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomBananaods.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\CustomBananaods.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\CustomBananaods.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\CustomBananaods.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\CustomBananaods.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:46:38.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExtGradient.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Classes\\ExtGradient.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Classes\\ExtGradient.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Classes\\ExtGradient.cs",
+              "RelativeToolTip": "IIDKQuest\\Classes\\ExtGradient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:07:32.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JRP.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\JRP.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\JRP.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\JRP.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\JRP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:44:31.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MosaSpeed.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\MosaSpeed.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\MosaSpeed.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\MosaSpeed.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\MosaSpeed.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:49:49.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "motd.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\motd.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\motd.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\motd.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\motd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:21:47.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TimedBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Classes\\TimedBehaviour.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Classes\\TimedBehaviour.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Classes\\TimedBehaviour.cs",
+              "RelativeToolTip": "IIDKQuest\\Classes\\TimedBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:05:56.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OverpoweredModsCat.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\OverpoweredModsCat.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\OverpoweredModsCat.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\OverpoweredModsCat.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\OverpoweredModsCat.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADgvwoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:22:08.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QuitGame.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\QuitGame.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\QuitGame.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\QuitGame.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\QuitGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:46:41.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RigGun.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\RigGun.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\RigGun.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\RigGun.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\RigGun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:36:57.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Tch2crsh.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Tch2crsh.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Tch2crsh.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Tch2crsh.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Tch2crsh.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T12:49:22.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Springguntest.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Springguntest.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Springguntest.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Springguntest.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Springguntest.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:25:22.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VisualModsCat.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\VisualModsCat.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\VisualModsCat.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\VisualModsCat.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\VisualModsCat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:40:21.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NoCilp.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\NoCilp.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\NoCilp.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\NoCilp.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\NoCilp.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:37:03.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "okinfecrion.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\okinfecrion.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\okinfecrion.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\okinfecrion.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\okinfecrion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T12:47:35.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NoClipFly.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\NoClipFly.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\NoClipFly.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\NoClipFly.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\NoClipFly.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T16:27:39.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InvMonk.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\InvMonk.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\InvMonk.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\InvMonk.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\InvMonk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T16:44:30.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "oK.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\oK.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\oK.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\oK.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\oK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T12:51:36.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Custom Computer.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Custom Computer.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Custom Computer.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Custom Computer.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Custom Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:54:37.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "spamenemy.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\spamenemy.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\spamenemy.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\spamenemy.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\spamenemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:00:33.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RotateHalo.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\RotateHalo.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\RotateHalo.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\RotateHalo.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\RotateHalo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T01:26:02.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Platforms.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Platforms.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Platforms.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Platforms.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Platforms.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:18:19.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NoTagFreeze.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\NoTagFreeze.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\NoTagFreeze.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\NoTagFreeze.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\NoTagFreeze.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:43:03.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Menutrail.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Menutrail.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Menutrail.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Menutrail.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Menutrail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:29:32.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MenuNameTag.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\MenuNameTag.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\MenuNameTag.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\MenuNameTag.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\MenuNameTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T16:02:13.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Become Ball.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Become Ball.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Become Ball.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Become Ball.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Become Ball.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T02:10:22.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "poop.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\poop.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\poop.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\poop.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\poop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:59:12.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "pee.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\pee.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\pee.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\pee.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\pee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:32:32.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Kickal.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Kickal.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Kickal.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Kickal.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Kickal.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAiwDoBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:37:29.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BananaSpam.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\BananaSpam.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\BananaSpam.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\BananaSpam.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\BananaSpam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:24:22.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Caseoh.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Caseoh.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Caseoh.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Caseoh.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Caseoh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T13:13:32.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GhostMonkey.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\GhostMonkey.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\GhostMonkey.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\GhostMonkey.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\GhostMonkey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T16:41:50.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MicMods.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\MicMods.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\MicMods.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\MicMods.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\MicMods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T12:38:01.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "nuke.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\nuke.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\nuke.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\nuke.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\nuke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:07:22.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RoomModsCat.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\RoomModsCat.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\RoomModsCat.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\RoomModsCat.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\RoomModsCat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:34:01.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ReLongArms.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\ReLongArms.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\ReLongArms.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\ReLongArms.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\ReLongArms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:54:21.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Boxesp.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Boxesp.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Boxesp.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Boxesp.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Boxesp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T02:21:14.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Tracers.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Tracers.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Tracers.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Tracers.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Tracers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:28:00.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Disconnect.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Disconnect.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Disconnect.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Disconnect.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Disconnect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:48:27.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Redandblackenemy.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Redandblackenemy.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Redandblackenemy.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Redandblackenemy.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Redandblackenemy.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T00:13:43.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CrashGun.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\CrashGun.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\CrashGun.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\CrashGun.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\CrashGun.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwFkeAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T18:29:08.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "StumpText.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\StumpText.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\StumpText.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\StumpText.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\StumpText.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:26:57.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Custommenuname.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Custommenuname.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Custommenuname.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Custommenuname.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Custommenuname.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:08:55.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SkyMods.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\SkyMods.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\SkyMods.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\SkyMods.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\SkyMods.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvycAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T01:27:16.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Casual.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Casual.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Casual.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Casual.cs",
+              "RelativeToolTip": "IIDKQuest\\Menu\\Casual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T02:15:15.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Mods\\Settings.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\Settings.cs",
+              "ToolTip": "C:\\Users\\lhend\\Downloads\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Mods\\Settings.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\lhend\\Downloads\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Mods\\Settings.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwCIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:05:34.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AntiAFK.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\AntiAFK.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\AntiAFK.cs",
+              "ToolTip": "C:\\Users\\lhend\\Downloads\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\AntiAFK.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\lhend\\Downloads\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\AntiAFK.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T12:47:25.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "OtherNameTag.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\OtherNameTag.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\OtherNameTag.cs",
+              "ToolTip": "C:\\Users\\lhend\\Downloads\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\OtherNameTag.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\lhend\\Downloads\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\OtherNameTag.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T18:22:36.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Mods\\Global.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\Global.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Mods\\Global.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:05:34.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Customizestump.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Customizestump.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Menu\\Customizestump.cs",
+              "ToolTip": "C:\\Users\\lhend\\Downloads\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Customizestump.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\lhend\\Downloads\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Menu\\Customizestump.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:22:34.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "buttongun.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Mods\\buttongun.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Mods\\buttongun.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Mods\\buttongun.cs",
+              "RelativeToolTip": "IIDKQuest\\Mods\\buttongun.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T18:23:51.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "PlayerJoin.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Notifications\\PlayerJoin.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Notifications\\PlayerJoin.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Notifications\\PlayerJoin.cs",
+              "RelativeToolTip": "IIDKQuest\\Notifications\\PlayerJoin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:05:38.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ColorChanger.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Classes\\ColorChanger.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Classes\\ColorChanger.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Classes\\ColorChanger.cs",
+              "RelativeToolTip": "IIDKQuest\\Classes\\ColorChanger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:07:45.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ButtonCollider.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Classes\\ButtonCollider.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Classes\\ButtonCollider.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Classes\\ButtonCollider.cs",
+              "RelativeToolTip": "IIDKQuest\\Classes\\ButtonCollider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:58:49.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "IIDKQuest\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:09:47.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ButtonInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Classes\\ButtonInfo.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Classes\\ButtonInfo.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Classes\\ButtonInfo.cs",
+              "RelativeToolTip": "IIDKQuest\\Classes\\ButtonInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:08:15.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PlayerLeave.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Notifications\\PlayerLeave.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Notifications\\PlayerLeave.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Notifications\\PlayerLeave.cs",
+              "RelativeToolTip": "IIDKQuest\\Notifications\\PlayerLeave.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:05:36.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Notifications\\Library.cs",
+              "RelativeDocumentMoniker": "IIDKQuest\\Notifications\\Library.cs",
+              "ToolTip": "C:\\Users\\Kelly\\Downloads\\Orbitay.lol Menu Code (DONT LEAK) (3)\\Orbitay.lol Menu Code (DONT LEAK)\\Orbitay.lol Menu\\MadeWithIIDKTempQuest\\IIDKQuest\\Notifications\\Library.cs",
+              "RelativeToolTip": "IIDKQuest\\Notifications\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:03:48.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
