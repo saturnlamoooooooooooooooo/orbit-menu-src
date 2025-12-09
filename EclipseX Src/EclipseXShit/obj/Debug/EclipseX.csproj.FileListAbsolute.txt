@@ -1,0 +1,22 @@
+C:\Users\ghost\Downloads\EclipseX\IIDKTempQuest\IIDKQuest\bin\Debug\EclipseX.dll
+C:\Users\ghost\Downloads\EclipseX\IIDKTempQuest\IIDKQuest\bin\Debug\EclipseX.pdb
+C:\Users\ghost\Downloads\EclipseX\IIDKTempQuest\IIDKQuest\obj\Debug\EclipseX.csproj.AssemblyReference.cache
+C:\Users\ghost\Downloads\EclipseX\IIDKTempQuest\IIDKQuest\obj\Debug\EclipseX.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Downloads\EclipseX\IIDKTempQuest\IIDKQuest\obj\Debug\EclipseX.csproj.Up2Date
+C:\Users\ghost\Downloads\EclipseX\IIDKTempQuest\IIDKQuest\obj\Debug\EclipseX.dll
+C:\Users\ghost\Downloads\EclipseX\IIDKTempQuest\IIDKQuest\obj\Debug\EclipseX.pdb
+C:\Users\ghost\Downloads\EclipseX Src\EclipseX Src\EclipseX\EclipseXShit\bin\Debug\EclipseX.dll
+C:\Users\ghost\Downloads\EclipseX Src\EclipseX Src\EclipseX\EclipseXShit\bin\Debug\EclipseX.pdb
+C:\Users\ghost\Downloads\EclipseX Src\EclipseX Src\EclipseX\EclipseXShit\obj\Debug\EclipseX.csproj.AssemblyReference.cache
+C:\Users\ghost\Downloads\EclipseX Src\EclipseX Src\EclipseX\EclipseXShit\obj\Debug\EclipseX.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Downloads\EclipseX Src\EclipseX Src\EclipseX\EclipseXShit\obj\Debug\EclipseX.csproj.Up2Date
+C:\Users\ghost\Downloads\EclipseX Src\EclipseX Src\EclipseX\EclipseXShit\obj\Debug\EclipseX.dll
+C:\Users\ghost\Downloads\EclipseX Src\EclipseX Src\EclipseX\EclipseXShit\obj\Debug\EclipseX.pdb
+C:\Users\lhend\Downloads\EclipseX Src\EclipseX Src\EclipseX Src\EclipseX\EclipseXShit\bin\Debug\EclipseX.dll
+C:\Users\lhend\Downloads\EclipseX Src\EclipseX Src\EclipseX Src\EclipseX\EclipseXShit\bin\Debug\EclipseX.pdb
+C:\Users\lhend\Downloads\EclipseX Src\EclipseX Src\EclipseX Src\EclipseX\EclipseXShit\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lhend\Downloads\EclipseX Src\EclipseX Src\EclipseX Src\EclipseX\EclipseXShit\obj\Debug\EclipseX.csproj.AssemblyReference.cache
+C:\Users\lhend\Downloads\EclipseX Src\EclipseX Src\EclipseX Src\EclipseX\EclipseXShit\obj\Debug\EclipseX.csproj.CoreCompileInputs.cache
+C:\Users\lhend\Downloads\EclipseX Src\EclipseX Src\EclipseX Src\EclipseX\EclipseXShit\obj\Debug\EclipseX.csproj.Up2Date
+C:\Users\lhend\Downloads\EclipseX Src\EclipseX Src\EclipseX Src\EclipseX\EclipseXShit\obj\Debug\EclipseX.dll
+C:\Users\lhend\Downloads\EclipseX Src\EclipseX Src\EclipseX Src\EclipseX\EclipseXShit\obj\Debug\EclipseX.pdb
