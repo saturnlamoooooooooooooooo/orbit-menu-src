@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{66F7A5F6-60C8-460A-8337-281F7A49D7FD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>LJ Private Menu</RootNamespace>
+    <AssemblyName>LJ Private Menu</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="0Harmony" />
+    <Reference Include="Assembly-CSharp" />
+    <Reference Include="Il2Cppmscorlib" />
+    <Reference Include="Il2CppSystem" />
+    <Reference Include="MelonLoader" />
+    <Reference Include="Photon3Unity3D" />
+    <Reference Include="PhotonRealtime" />
+    <Reference Include="PhotonUnityNetworking" />
+    <Reference Include="PhotonVoice" />
+    <Reference Include="PlayFab" />
+    <Reference Include="System.Core" />
+    <Reference Include="UnhollowerBaseLib" />
+    <Reference Include="Unity.InputSystem" />
+    <Reference Include="Unity.TextMeshPro" />
+    <Reference Include="UnityEngine.AudioModule" />
+    <Reference Include="UnityEngine.CoreModule" />
+    <Reference Include="UnityEngine.PhysicsModule" />
+    <Reference Include="UnityEngine.TextRenderingModule" />
+    <Reference Include="UnityEngine.UI" />
+    <Reference Include="UnityEngine.UIModule" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IIDKQuest\Classes\Button.cs" />
+    <Compile Include="IIDKQuest\Classes\ButtonInfo.cs" />
+    <Compile Include="IIDKQuest\Classes\ColorChanger.cs" />
+    <Compile Include="IIDKQuest\Classes\ExtGradient.cs" />
+    <Compile Include="IIDKQuest\Classes\RigManager.cs" />
+    <Compile Include="IIDKQuest\Classes\TimedBehaviour.cs" />
+    <Compile Include="IIDKQuest\Menu\Buttons.cs" />
+    <Compile Include="IIDKQuest\Menu\Main.cs" />
+    <Compile Include="IIDKQuest\Mods\AdvantageMods.cs" />
+    <Compile Include="IIDKQuest\Mods\ControllerInputPoller.cs" />
+    <Compile Include="IIDKQuest\Mods\Enumerator.cs" />
+    <Compile Include="IIDKQuest\Mods\Global.cs" />
+    <Compile Include="IIDKQuest\Mods\MovementMods.cs" />
+    <Compile Include="IIDKQuest\Mods\NameTagMods.cs" />
+    <Compile Include="IIDKQuest\Mods\OverpoweredMods.cs" />
+    <Compile Include="IIDKQuest\Mods\PlayerMods.cs" />
+    <Compile Include="IIDKQuest\Mods\RoomMods.cs" />
+    <Compile Include="IIDKQuest\Mods\SafetyMods.cs" />
+    <Compile Include="IIDKQuest\Mods\SettingsMods.cs" />
+    <Compile Include="IIDKQuest\Mods\SMHMods.cs" />
+    <Compile Include="IIDKQuest\Mods\Soundbored.cs" />
+    <Compile Include="IIDKQuest\Mods\StartupMods.cs" />
+    <Compile Include="IIDKQuest\Mods\VrRigMods.cs" />
+    <Compile Include="IIDKQuest\Notifications\NotifiLib.cs" />
+    <Compile Include="IIDKQuest\Patches\JoinPatch.cs" />
+    <Compile Include="IIDKQuest\Patches\LeavePatch.cs" />
+    <Compile Include="IIDKQuest\PluginInfo.cs" />
+    <Compile Include="IIDKQuest\Settings.cs" />
+    <Compile Include="IIDKQuest\Utility.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StupidTemplate\Menu\mods.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
